@@ -3,13 +3,13 @@ package Arrays;
 public class One {
 	
 	static void m1() {
-		System.out.println("m1 method");
+		System.out.println("----m1 method-----");
 		int[] a=new int[3];
 		System.out.println(a);
 	}
 	
 	static void m2() {
-		System.out.println("m2 method");
+		System.out.println("----m2 method-----");
 		int[] a=new int[3];
 		System.out.println(a[0]);
 		System.out.println(a[1]);
@@ -17,13 +17,13 @@ public class One {
 	}
 	
 	static void m3() {
-		System.out.println("m3 method");
+		System.out.println("--------m3 method-----");
 		int[][] a=new int[3][3];
 		System.out.println(a);
 	}
 	
 	static void m4() {
-		System.out.println("m4 method.");
+		System.out.println("-----m4 method------");
 		String a[];
 		a=new String[3];
 		System.out.println(a[0]);
