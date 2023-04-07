@@ -23,7 +23,7 @@ public class One {
 	}
 	
 	static void m4() {
-		System.out.println("m4 method");
+		System.out.println("m4 method.");
 		String a[];
 		a=new String[3];
 		System.out.println(a[0]);
